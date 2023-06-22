@@ -22,3 +22,5 @@ function getData(seach) {
     })
     .then(displayData);
 }
+
+function displayData(response) {}
